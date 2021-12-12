@@ -1,3 +1,34 @@
+## My Config
+- Clone to local and rename to ~/.vim_runtime or cleate link
+
+
+```
+ln -s ~/vim_runtime ~/.vim_runtime
+
+```
+
+- Follow installation in The Ultimate vimrc
+
+
+- markdown-preview require vim +python3
+
+
+
+ ```
+alias python="python3"
+brew install vim
+vim --version | grep python # +python3
+
+
+```
+
+---
+
+
+
+
+
+
 ![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
 
 # The Ultimate vimrc
